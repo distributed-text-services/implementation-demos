@@ -19,7 +19,7 @@ pip install -r requirements.txt
 jupyter contrib nbextension install --user
 ```
 
-Then, run `jupyter notebooks` and go to http://localhost:8888/nbextensions/?nbextension=zenmode/main where you enable `Table of Contents (2)`
+Then, run `jupyter notebook` and go to http://localhost:8888/nbextensions/?nbextension=zenmode/main where you enable `Table of Contents (2)`
 
 ### Run
 
