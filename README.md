@@ -1,15 +1,28 @@
 Demo for DTS Implementation uses
 ================================
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/implementation-demos/HEAD)
+
+This repository contains a set of Jupyter notebooks that demonstrate how to query and interact with existing [DTS](https://w3id.org/dts) APIs.
+
 ## To come
 
-## Alternative browsing demo
+🎁
+
+## Alternative browsing demos
+
+Alternatively, we provide two more point-and-click-y demos:
+
+- [DTS demo](https://dev.chartes.psl.eu/dts-demo/) by the École Nationale des Chartes
+- [DTS browser](https://dts-browser.herokuapp.com/) (⚠️ experimental!)
 
 ## How to run
 
-We recommend that you create a virtual environment to run the following notebooks before running the following commands. The notebooks run on 3.5 and later (tested). It probably works on 3.4.
+1. Launch it on [Binder](https://mybinder.org) by cliking on the link above.
 
-### Install 
+2. Or create a virtual environment to run the following notebooks before running the following commands. The notebooks run on 3.5 and later. It works on 3.8 (tested).
+
+### Install
 
 ```bash
 # Install the python libraries
